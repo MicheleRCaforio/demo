@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-skajbksja was what i wrote problematic
+mskajbksja was what i wrote problematic
 =======
 skajbksja was what i wrotend its gonna cause trouble
 >>>>>>> very-bad
